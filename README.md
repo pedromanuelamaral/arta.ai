@@ -1,12 +1,16 @@
-# ÆRTA AI
+# ÆRTA AI - Overview
 
-## Overview
+[**Usage Dashboard Comparing Cerebras Vs. GPU Vs. TPU**](https://pedromanuelamaral.github.io/arta.ai/)
 
 ÆRTA AI, pronounced simply as Arta AI, is a private artificial intelligence cultural desk for cinema and literature. It is not a generic recommendation engine. It is closer to a personal editorial room: a system that learns what you have seen, what stayed with you, what failed, what wounded you, what bored you, and why.
 
 The project began from a personal desire to encounter more art that is meaningful rather than merely popular. People are moved by different forms of cinema and literature. ÆRTA tries to close the gap between taste and discovery by giving the user a set of cultural research agents that can reason across memory, works, archives, and emotional context.
 
 For the hackathon, the key claim is simple: Gemma 4 is not used as a chatbot attached to a taste profile. It is used as the main reasoning engine inside a multi-agent cultural research system.
+
+<img width="2752" height="1536" alt="info-1" src="https://github.com/pedromanuelamaral/arta.ai/blob/d468c9d6bac879a43ec2f093153a2ac23468bd45/docs/arta-visual.png" />
+
+> "One day Dostoevsky threw out the enigmatic remark: 'Beauty will save the world'. What sort of a statement is that? How could that be possible? When in bloodthirsty history did beauty ever save anyone from anything? Ennobled, uplifted, yes - but whom has it saved?" (Aleksandr Solzhenitsy)
 
 ## Operating constraints
 
