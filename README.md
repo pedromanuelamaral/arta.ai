@@ -29,7 +29,20 @@ For the hackathon, the key claim is simple: Gemma 4 is not used as a chatbot att
 
 The product is built around the idea that taste is not a list of liked items. Taste is a pattern of attention. ÆRTA tries to infer that pattern from viewing history, reading history, saved works, reactions, notes, and explicit feedback.
 
-## Why this is different
+## Project Summary
+This repo contains the ÆRTA AI project workspace scaffold for the Gemma 4 hackathon.
+
+Top-level folders:
+
+- `mcp_server` — Python MCP server and tool definitions
+- `brain` — orchestration, curator/critic logic
+- `surface` — frontend HTML/JS/CSS
+- `data` — local data store; `data/sqlite` for SQLite files
+- `research` — research notes and references
+- `logs` — runtime and debug logs
+- `docs` — project docs and doctrine (already present)
+
+Next steps: implement `mcp_server` tools and SQLite schema.
 
 ## Why this is different
 
